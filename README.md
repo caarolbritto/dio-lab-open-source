@@ -109,8 +109,8 @@ Aprender o básico sobre contribuição no GitHub
 2. Clonar localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
 3. Agregue control remoto ascendente para mantener actualizado su repositorio local: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
     > Utilice el comando `git pull upstream main` para descargar y fusionar cambios en su repositorio local según la rama `main` de este repositorio original del que lo bifurcó, o `git fetch upstream main` para descargar sin fusionar. Ver más en:  [Comenzando con Git y GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
-4. Cree una nueva **branch** y asígnele el nombre `feat/community/seunomedeusuario`: `git checkout -b feat/community/yourusername`;
-    > Ejemplo: `git checkout -b feat/community/elidianaandrade`
+4. Crie uma nova **branch** e nomeie como 'feat/community/SeuNomeDeUsuario': "git checkout -b feat/community/seunomedeusuario';                                     
+ >> Exemplo: 'git checkout -b feat/community/caarolbritto'
 5. Dentro de la carpeta  [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community), cree un archivo en Markdown (extensión `.md`) y nombre es lo mismo que tu nombre de usuario de GitHub;
     > Ejemplo: `elidianaandrade.md` <br>
 6. Desarrolla tu perfil. Para esto puedes ver ejemplos en la carpeta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) y agregar algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils);
